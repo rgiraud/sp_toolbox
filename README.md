@@ -11,7 +11,7 @@
 
 ### Execution
 ```
-run main.m    %call SphSPS_mex
+run main_fct_sp.m
 ```
 
 
