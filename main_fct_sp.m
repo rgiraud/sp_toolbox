@@ -20,8 +20,8 @@
 % Run main.m to have an overview of the contained functions.
 %
 % (C) Rémi Giraud, 2017
-% rgiraud@labri.fr, www.labri.fr/~rgiraud/downloads
-% University of Bordeaux
+% rgiraud@u-bordeaux.fr, https://remi-giraud.enseirb-matmeca.fr/
+% Bordeaux-INP, IMS Laboratory
 
 
 function main_fct_sp(varargin)
